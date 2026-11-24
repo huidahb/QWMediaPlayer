@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 还原(restore down)图标·悬停态：图形与 normal.svg 相同，颜色更亮 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="32" height="32">
+  <g fill="none" stroke="#cdcdcd" stroke-width="40" stroke-linejoin="round" stroke-linecap="butt">
+    <path d="M300 280 V140 H860 V700 H730"/>
+    <path d="M170 280 H730 V840 H170 Z"/>
+  </g>
+</svg>
